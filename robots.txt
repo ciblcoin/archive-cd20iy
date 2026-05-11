@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ciblcoin.github.io/archive-cd20iy/sitemap.xml
